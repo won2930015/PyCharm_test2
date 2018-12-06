@@ -36,10 +36,14 @@ car.darves()
 car.v1
 
 
-def d121():
+def d121338():
     pass
 
-@d1213
+@d121338()
+def b336():
+    pass
+
+
 
 
 
