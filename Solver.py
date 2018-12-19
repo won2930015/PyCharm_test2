@@ -20,8 +20,7 @@ class Solver(object):
             raise Exception
             # print('error')
 
-
-
+print('ok')
 Solver().demo(2, 1, 0)  # 注释
 # # Solver.calculate123()
 
